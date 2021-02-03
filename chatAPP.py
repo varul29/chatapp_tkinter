@@ -163,7 +163,7 @@ def on_closing(event=None):
     send()
 
 root = Tk()
-root.title("Mahindra Monitor Checker")
+root.title("Chatapp tkinter")
 photo = PhotoImage(file = "Any image file")
 root.resizable(0,0)
 messages_frame = Frame(root,borderwidth = 5)
